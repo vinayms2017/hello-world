@@ -11,5 +11,5 @@ nothing to see here, just taking baby steps in github.
  
  ``` javascript
  fucntion(){
- alert("??")
+     alert("??")
  }
